@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor Penchev - @Vileh
 - 👀 I’m interested in data science
-- 📫 How to reach me victorpenchev277@gmail.com
+- 📫 How to reach me penchev.viktor277@gmail.com
 
 <!---
 Vileh/Vileh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
